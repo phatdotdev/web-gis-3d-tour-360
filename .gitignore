@@ -1,0 +1,15 @@
+/documents
+
+/frontend/node_modules/
+/frontend/dist/
+/frontend/dist-interaction-final
+/frontend/dist-interaction-verification
+/frontend/uploads
+/frontend/raw
+/frontend/huong_dan.md
+
+/backend/node_modules/
+/backend/dist/
+/backend/uploads
+
+AI_RULES.md
